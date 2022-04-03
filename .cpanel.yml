@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/eladlevyco/repositories/algobot-1/
+    - export DEPLOYPATH=/home/eladlevyco/repositories/
     - /bin/cp * $DEPLOYPATH
